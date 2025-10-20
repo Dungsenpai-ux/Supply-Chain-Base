@@ -1,0 +1,35 @@
+{
+  "name": "supply-chain-project-nano-degree-osama-bari",
+  "version": "2.0.0",
+  "description": "Blockchain Supply Chain Solution using Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate:reset": "truffle migrate --reset"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "truffle",
+    "solidity",
+    "supply-chain"
+  ],
+  "author": "Osama Bari <osamabari@hotmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "truffle": "^5.11.5",
+    "@truffle/hdwallet-provider": "^2.1.15"
+  },
+  "dependencies": {
+    "web3": "^4.3.0",
+    "dotenv": "^16.3.1"
+  }
+}
