@@ -280,27 +280,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-**Dungsenpai-ux**
-- GitHub: [@Dungsenpai-ux](https://github.com/Dungsenpai-ux)
-- Repository: [Supply-Chain-Base](https://github.com/Dungsenpai-ux/Supply-Chain-Base)
-
-## 🙏 Acknowledgments
-
-* Solidity community
-* Truffle Suite team
-* Ethereum Foundation
-* OpenZeppelin for security best practices
-* Udacity Blockchain Nanodegree Program
-
-## 📞 Support
-
-For issues and questions:
-- Open an issue on [GitHub](https://github.com/Dungsenpai-ux/Supply-Chain-Base/issues)
-- Check documentation in `/documentation` folder
-
----
-
-**Note**: This is an educational project demonstrating blockchain supply chain implementation. For production use, additional security audits and testing are recommended.
