@@ -2,8 +2,8 @@
 pragma solidity ^0.8.0;
 
 // Import the library 'Roles'
-import "../Roles.sol";
-import "../Ownable.sol";
+import "./Roles.sol";
+import "./Ownable.sol";
  
 // Define a contract 'DistributorRole' to manage this role - add, remove, check
 /**

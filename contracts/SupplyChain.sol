@@ -3,11 +3,11 @@ pragma solidity ^0.8.0;
 
 // Import the library 'Roles'
 
-import "../FarmerRole.sol";
-import "../DistributorRole.sol";
-import "../RetailerRole.sol";
-import "../ConsumerRole.sol";
-import "../Ownable.sol";
+import "./FarmerRole.sol";
+import "./DistributorRole.sol";
+import "./RetailerRole.sol";
+import "./ConsumerRole.sol";
+import "./Ownable.sol";
 
 
     /**
