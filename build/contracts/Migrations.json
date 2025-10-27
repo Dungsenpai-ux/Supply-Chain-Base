@@ -744,7 +744,7 @@
   "sourceMap": "60:493:0:-:0;;;153:45;;;;;;;;;-1:-1:-1;174:5:0;:18;;-1:-1:-1;;;;;;174:18:0;182:10;174:18;;;60:493;;;;;;",
   "deployedSourceMap": "60:493:0:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;382:168;;;;;;:::i;:::-;;:::i;:::-;;110:36;;;;;;;;;451:25:8;;;439:2;424:18;110:36:0;;;;;;;;85:20;;;;;-1:-1:-1;;;;;85:20:0;;;;;;-1:-1:-1;;;;;651:32:8;;;633:51;;621:2;606:18;85:20:0;487:203:8;271:105:0;;;;;;:::i;:::-;;:::i;382:168::-;251:5;;-1:-1:-1;;;;;251:5:0;237:10;:19;233:26;;519:24:::1;::::0;497:47:::1;::::0;-1:-1:-1;;;497:47:0;;478:11;;-1:-1:-1;;;;;497:21:0;::::1;::::0;::::1;::::0;:47:::1;::::0;::::1;;451:25:8::0;;;439:2;424:18;;305:177;497:47:0::1;;;;;;;;;;;;;;;;;;::::0;::::1;;;;;;;;;;;;::::0;::::1;;;;;;;;;438:112;233:26:::0;382:168;:::o;271:105::-;251:5;;-1:-1:-1;;;;;251:5:0;237:10;:19;233:26;;334:24:::1;:36:::0;271:105::o;14:286:8:-;73:6;126:2;114:9;105:7;101:23;97:32;94:52;;;142:1;139;132:12;94:52;168:23;;-1:-1:-1;;;;;220:31:8;;210:42;;200:70;;266:1;263;256:12;200:70;289:5;14:286;-1:-1:-1;;;14:286:8:o;695:180::-;754:6;807:2;795:9;786:7;782:23;778:32;775:52;;;823:1;820;813:12;775:52;-1:-1:-1;846:23:8;;695:180;-1:-1:-1;695:180:8:o",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.0;\r\n\r\ncontract Migrations {\r\n  address public owner;\r\n  uint public last_completed_migration;\r\n\r\n  constructor() {\r\n    owner = msg.sender;\r\n  }\r\n\r\n  modifier restricted() {\r\n    if (msg.sender == owner) _;\r\n  }\r\n\r\n  function setCompleted(uint completed) public restricted {\r\n    last_completed_migration = completed;\r\n  }\r\n\r\n  function upgrade(address new_address) public restricted {\r\n    Migrations upgraded = Migrations(new_address);\r\n    upgraded.setCompleted(last_completed_migration);\r\n  }\r\n}\r\n",
-  "sourcePath": "D:\\Folder_of_Dung\\Project\\Supply-Chain-Solution-Project-Architect\\contracts\\Migrations.sol",
+  "sourcePath": "D:\\Folder_of_Dung\\Project\\Suppy-Chain-Basic-Architecture\\contracts\\Migrations.sol",
   "ast": {
     "absolutePath": "project:/contracts/Migrations.sol",
     "exportedSymbols": {
@@ -1411,10 +1411,16 @@
       "links": {},
       "address": "0xF205e98244596618dE1cb47725B7272FA4D5a73A",
       "transactionHash": "0xe02cc685b0c31b7a4a6279832ed3186c1bb9addb407f8ae57193e34b71ddd298"
+    },
+    "1761320177065": {
+      "events": {},
+      "links": {},
+      "address": "0x8b11142882624715c62A7F986e8fC5E9B43D0C04",
+      "transactionHash": "0xdb057a03babcf8bdf52ab0a22fb4310b2decc2a9f544298a16ec4f3db426d9c6"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-10-18T16:30:38.788Z",
+  "updatedAt": "2025-10-24T15:38:56.039Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

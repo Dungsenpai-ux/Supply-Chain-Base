@@ -2699,7 +2699,7 @@
   "sourceMap": "332:1763:1:-:0;;;926:51;;;;;;;;;-1:-1:-1;652:9:7;:22;;-1:-1:-1;;;;;;652:22:7;664:10;652:22;;;;;690:40;;664:10;;652:9;690:40;;652:9;;690:40;947:24:1;960:10;947:12;:24::i;:::-;332:1763;;1744:117;1799:22;:9;1813:7;1799:13;:22::i;:::-;1833;;-1:-1:-1;;;;;1833:22:1;;;;;;;;1744:117;:::o;380:236:5:-;-1:-1:-1;;;;;453:21:5;;445:52;;;;-1:-1:-1;;;445:52:5;;216:2:8;445:52:5;;;198:21:8;255:2;235:18;;;228:30;-1:-1:-1;;;274:18:8;;;267:48;332:18;;445:52:5;;;;;;;;;513:18;517:4;523:7;513:3;:18::i;:::-;512:19;504:70;;;;-1:-1:-1;;;504:70:5;;563:2:8;504:70:5;;;545:21:8;602:2;582:18;;;575:30;641:34;621:18;;;614:62;-1:-1:-1;;;692:18:8;;;685:36;738:19;;504:70:5;361:402:8;504:70:5;-1:-1:-1;;;;;583:20:5;:11;:20;;;;;;;;;;;:27;;-1:-1:-1;;583:27:5;606:4;583:27;;;380:236::o;1220:200::-;1307:4;-1:-1:-1;;;;;1331:21:5;;1323:57;;;;-1:-1:-1;;;1323:57:5;;970:2:8;1323:57:5;;;952:21:8;1009:2;989:18;;;982:30;1048:25;1028:18;;;1021:53;1091:18;;1323:57:5;768:347:8;1323:57:5;-1:-1:-1;;;;;;1394:20:5;:11;:20;;;;;;;;;;;;;;;1220:200::o;768:347:8:-;332:1763:1;;;;;;",
   "deployedSourceMap": "332:1763:1:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1402:89;;;;;;:::i;:::-;;:::i;:::-;;1562:85;;;:::i;1688:143:7:-;;;:::i;1232:106:1:-;;;;;;:::i;:::-;;:::i;:::-;;;470:14:8;;463:22;445:41;;433:2;418:18;1232:106:1;;;;;;;;850:82:7;888:7;915:9;850:82;;-1:-1:-1;;;;;915:9:7;;;643:51:8;;631:2;616:18;850:82:7;497:203:8;1306:95:7;1346:4;1384:9;-1:-1:-1;;;;;1384:9:7;1370:10;:23;1306:95;;2009:109;;;;;;:::i;:::-;;:::i;1402:89:1:-;1346:4:7;1384:9;-1:-1:-1;;;;;1384:9:7;1370:10;:23;1055:68;;;;-1:-1:-1;;;1055:68:7;;;;;;;:::i;:::-;;;;;;;;;1464:21:1::1;1477:7;1464:12;:21::i;:::-;1402:89:::0;:::o;1562:85::-;1346:4:7;1384:9;-1:-1:-1;;;;;1384:9:7;1370:10;:23;1055:68;;;;-1:-1:-1;;;1055:68:7;;;;;;;:::i;:::-;1614:27:1::1;1630:10;1614:15;:27::i;:::-;1562:85::o:0;1688:143:7:-;1346:4;1384:9;-1:-1:-1;;;;;1384:9:7;1370:10;:23;1055:68;;;;-1:-1:-1;;;1055:68:7;;;;;;;:::i;:::-;1787:1:::1;1768:9:::0;;1750:40:::1;::::0;-1:-1:-1;;;;;1768:9:7;;::::1;::::0;1750:40:::1;::::0;1787:1;;1750:40:::1;1821:1;1801:22:::0;;-1:-1:-1;;;;;;1801:22:7::1;::::0;;1688:143::o;1232:106:1:-;1290:4;1310:22;:9;1324:7;1310:13;:22::i;:::-;1303:29;1232:106;-1:-1:-1;;1232:106:1:o;2009:109:7:-;1346:4;1384:9;-1:-1:-1;;;;;1384:9:7;1370:10;:23;1055:68;;;;-1:-1:-1;;;1055:68:7;;;;;;;:::i;:::-;2082:28:::1;2101:8;2082:18;:28::i;1744:117:1:-:0;1799:22;:9;1813:7;1799:13;:22::i;:::-;1833;;-1:-1:-1;;;;;1833:22:1;;;;;;;;1744:117;:::o;1967:125::-;2025:25;:9;2042:7;2025:16;:25::i;:::-;2062:24;;-1:-1:-1;;;;;2062:24:1;;;;;;;;1967:125;:::o;1220:200:5:-;1307:4;-1:-1:-1;;;;;1331:21:5;;1323:57;;;;-1:-1:-1;;;1323:57:5;;1322:2:8;1323:57:5;;;1304:21:8;1361:2;1341:18;;;1334:30;1400:25;1380:18;;;1373:53;1443:18;;1323:57:5;1120:347:8;1323:57:5;-1:-1:-1;;;;;;1394:20:5;:11;:20;;;;;;;;;;;;;;;1220:200::o;2296:232:7:-;-1:-1:-1;;;;;2370:22:7;;2362:73;;;;-1:-1:-1;;;2362:73:7;;1674:2:8;2362:73:7;;;1656:21:8;1713:2;1693:18;;;1686:30;1752:34;1732:18;;;1725:62;-1:-1:-1;;;1803:18:8;;;1796:36;1849:19;;2362:73:7;1472:402:8;2362:73:7;2469:9;;;2451:38;;-1:-1:-1;;;;;2451:38:7;;;;2469:9;;;2451:38;;;2500:9;:20;;-1:-1:-1;;;;;;2500:20:7;-1:-1:-1;;;;;2500:20:7;;;;;;;;;;2296:232::o;380:236:5:-;-1:-1:-1;;;;;453:21:5;;445:52;;;;-1:-1:-1;;;445:52:5;;2081:2:8;445:52:5;;;2063:21:8;2120:2;2100:18;;;2093:30;-1:-1:-1;;;2139:18:8;;;2132:48;2197:18;;445:52:5;1879:342:8;445:52:5;513:18;517:4;523:7;513:3;:18::i;:::-;512:19;504:70;;;;-1:-1:-1;;;504:70:5;;2428:2:8;504:70:5;;;2410:21:8;2467:2;2447:18;;;2440:30;2506:34;2486:18;;;2479:62;-1:-1:-1;;;2557:18:8;;;2550:36;2603:19;;504:70:5;2226:402:8;504:70:5;-1:-1:-1;;;;;583:20:5;:11;:20;;;;;;;;;;;:27;;-1:-1:-1;;583:27:5;606:4;583:27;;;380:236::o;782:225::-;-1:-1:-1;;;;;858:21:5;;850:48;;;;-1:-1:-1;;;850:48:5;;2835:2:8;850:48:5;;;2817:21:8;2874:2;2854:18;;;2847:30;-1:-1:-1;;;2893:18:8;;;2886:44;2947:18;;850:48:5;2633:338:8;850:48:5;913:18;917:4;923:7;913:3;:18::i;:::-;905:59;;;;-1:-1:-1;;;905:59:5;;3178:2:8;905:59:5;;;3160:21:8;3217:2;3197:18;;;3190:30;3256;3236:18;;;3229:58;3304:18;;905:59:5;2976:352:8;905:59:5;-1:-1:-1;;;;;973:20:5;996:5;973:20;;;;;;;;;;;:28;;-1:-1:-1;;973:28:5;;;782:225::o;14:286:8:-;73:6;126:2;114:9;105:7;101:23;97:32;94:52;;;142:1;139;132:12;94:52;168:23;;-1:-1:-1;;;;;220:31:8;;210:42;;200:70;;266:1;263;256:12;200:70;289:5;14:286;-1:-1:-1;;;14:286:8:o;705:410::-;907:2;889:21;;;946:2;926:18;;;919:30;985:34;980:2;965:18;;958:62;-1:-1:-1;;;1051:2:8;1036:18;;1029:44;1105:3;1090:19;;705:410::o",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.0;\r\n\r\n// Import the library 'Roles'\r\nimport \"./Roles.sol\";\r\nimport \"../coconutcore/Ownable.sol\";\r\n\r\n// Define a contract 'ConsumerRole' to manage this role - add, remove, check\r\n/**\r\n* @title ConsumerRole\r\n* @dev Contract to manage the Consumer Role - add, remove, check. \r\n*/\r\ncontract ConsumerRole is Ownable {\r\n  using Roles for Roles.Role;\r\n\r\n  // Define 2 events, one for Adding, and other for Removing\r\n  // Define an Event for adding a Consumer\r\n  event ConsumerAdded(address indexed account);\r\n  // Define an Event for removing a Consumer\r\n  event ConsumerRemoved(address indexed account);\r\n\r\n  // Define a struct 'consumers' by inheriting from 'Roles' library, struct Role\r\n  Roles.Role private consumers;\r\n\r\n  // In the constructor make the address that deploys this contract the 1st consumer\r\n  // The address that deploys this contract is the 1st consumer.\r\n  constructor() {\r\n    _addConsumer(msg.sender);\r\n  }\r\n\r\n  // Define a modifier that checks to see if msg.sender has the appropriate role\r\n  modifier onlyConsumer() {\r\n    require(isConsumer(msg.sender), \"Caller is not a consumer.\");\r\n    _;\r\n  }\r\n\r\n  // Define a function 'isConsumer' to check this role\r\n  function isConsumer(address account) public view returns (bool) {\r\n    return consumers.has(account);\r\n  }\r\n\r\n  // Define a function 'addConsumer' that adds this role\r\n  function addConsumer(address account) public onlyOwner {\r\n    _addConsumer(account);\r\n  }\r\n\r\n  // Define a function 'renounceConsumer' to renounce this role\r\n  function renounceConsumer() public onlyOwner {\r\n    _removeConsumer(msg.sender);\r\n  }\r\n\r\n  // Define an internal function '_addConsumer' to add this role, called by 'addConsumer'\r\n  function _addConsumer(address account) internal {\r\n    consumers.add(account);\r\n    emit ConsumerAdded(account);\r\n  }\r\n\r\n  // Define an internal function '_removeConsumer' to remove this role, called by 'removeConsumer'\r\n  function _removeConsumer(address account) internal {\r\n    consumers.remove(account);\r\n    emit ConsumerRemoved(account);\r\n  }\r\n}",
-  "sourcePath": "D:\\Folder_of_Dung\\Project\\Supply-Chain-Solution-Project-Architect\\contracts\\coconutaccesscontrol\\ConsumerRole.sol",
+  "sourcePath": "D:\\Folder_of_Dung\\Project\\Suppy-Chain-Basic-Architecture\\contracts\\coconutaccesscontrol\\ConsumerRole.sol",
   "ast": {
     "absolutePath": "project:/contracts/coconutaccesscontrol/ConsumerRole.sol",
     "exportedSymbols": {
@@ -4025,10 +4025,62 @@
       "links": {},
       "address": "0xBDfCa9c46781A9E1a46E49d43b3DA7089daa45f3",
       "transactionHash": "0x924b7602571031640a8e9979cf66a33c3c7a9767d3a8352f9c354600c178a8b5"
+    },
+    "1761320177065": {
+      "events": {
+        "0x28b26e7a3d20aedbc5f8f2ebf7da671c0491723a2b78f47a097b0e46dee07142": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "ConsumerAdded",
+          "type": "event"
+        },
+        "0xe3f5ed5f263f1f01764a96edfc7d025f511ec5f7d180e8816908b78bcf74f098": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "ConsumerRemoved",
+          "type": "event"
+        },
+        "0x5c486528ec3e3f0ea91181cff8116f02bfa350e03b8b6f12e00765adbb5af85c": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "oldOwner",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "newOwner",
+              "type": "address"
+            }
+          ],
+          "name": "TransferOwnership",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x5C244fe7389829F92b112d009ae9FCA810C980d5",
+      "transactionHash": "0x76b8023970673b6aa66e3f2c3a8c3a73b77e97ea7920d603e7980c1073d7c39b"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-10-18T16:30:38.763Z",
+  "updatedAt": "2025-10-24T15:38:56.014Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "Contract to manage the Consumer Role - add, remove, check. ",

@@ -10,7 +10,7 @@
   "sourceMap": "147:1276:5:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;147:1276:5;;;;;;;;;;;;;;;;;",
   "deployedSourceMap": "147:1276:5:-:0;;;;;;;;",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.0;\r\n\r\n/**\r\n * @title Roles\r\n * @dev Library for managing addresses assigned to a Role.\r\n */\r\nlibrary Roles {\r\n  struct Role {\r\n    mapping (address => bool) bearer;\r\n  }\r\n\r\n  /**\r\n   * @dev Give an account access to this role.\r\n   * @param role The role of the account\r\n   * @param account The address to add a role\r\n   */\r\n  function add(Role storage role, address account) internal {\r\n    require(account != address(0), \"verify the account\");\r\n    require(!has(role, account), \"verify account does not have this role\");\r\n\r\n    role.bearer[account] = true;\r\n  }\r\n\r\n  /**\r\n   * @dev Remove an account's access to this role.\r\n   * @param role The role of the account\r\n   * @param account The address to remove the role\r\n   */\r\n  function remove(Role storage role, address account) internal {\r\n    require(account != address(0), \"verify account\");\r\n    require(has(role, account), \"verify account has this role\");\r\n\r\n    role.bearer[account] = false;\r\n  }\r\n\r\n  /**\r\n   * @dev Check if an account has this role.\r\n   * @param role The role of the account\r\n   * @param account The address to check the role\r\n   * @return bool , true if the address has the role\r\n   */\r\n  function has(Role storage role, address account)\r\n    internal\r\n    view\r\n    returns (bool)\r\n  {\r\n    require(account != address(0), \"Account is not verified\");\r\n    return role.bearer[account];\r\n  }\r\n}",
-  "sourcePath": "D:\\Folder_of_Dung\\Project\\Supply-Chain-Solution-Project-Architect\\contracts\\coconutaccesscontrol\\Roles.sol",
+  "sourcePath": "D:\\Folder_of_Dung\\Project\\Suppy-Chain-Basic-Architecture\\contracts\\coconutaccesscontrol\\Roles.sol",
   "ast": {
     "absolutePath": "project:/contracts/coconutaccesscontrol/Roles.sol",
     "exportedSymbols": {
@@ -1451,7 +1451,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-10-18T16:30:25.025Z",
+  "updatedAt": "2025-10-24T15:38:14.967Z",
   "devdoc": {
     "details": "Library for managing addresses assigned to a Role.",
     "kind": "dev",

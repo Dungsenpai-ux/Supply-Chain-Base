@@ -3,11 +3,11 @@ pragma solidity ^0.8.0;
 
 // Import the library 'Roles'
 
-import "../coconutaccesscontrol/FarmerRole.sol";
-import "../coconutaccesscontrol/DistributorRole.sol";
-import "../coconutaccesscontrol/RetailerRole.sol";
-import "../coconutaccesscontrol/ConsumerRole.sol";
-import "../coconutcore/Ownable.sol";
+import "../FarmerRole.sol";
+import "../DistributorRole.sol";
+import "../RetailerRole.sol";
+import "../ConsumerRole.sol";
+import "../Ownable.sol";
 
 
     /**
@@ -152,8 +152,12 @@ contract SupplyChain is FarmerRole, DistributorRole, RetailerRole, ConsumerRole 
 
     // function 'kill' if required
     function kill() public {
-        if (msg.sender == _owner) {
-            selfdestruct(payable(_owner));
+        // only owner can withdraw the contract balance; do not self-destruct
+        require(msg.sender == _owner, "Only owner can call kill");
+        uint balance = address(this).balance;
+        if (balance > 0) {
+            (bool success, ) = payable(_owner).call{value: balance}("");
+            require(success, "Transfer failed");
         }
     }
 
